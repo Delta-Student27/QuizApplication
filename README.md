@@ -28,7 +28,7 @@ A full-stack Quiz Application built using Spring Boot and React that allows user
 - REST APIs
 
 **Database:**
-- MySQL
+- MySQl
 
 ---
 
