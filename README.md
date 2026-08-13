@@ -4,7 +4,7 @@ A full-stack Quiz Application built using Spring Boot and React that allows user
 
 ---
 
-##  Features
+## features
 
 -  Create and manage quiz questions
 -  Attempt quizzes with multiple-choice questions
